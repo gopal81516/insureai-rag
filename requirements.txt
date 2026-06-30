@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+transformers==4.45.2
+huggingface-hub==0.26.5
+sentence-transformers
+gradio
+torch
